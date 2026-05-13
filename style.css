@@ -1,0 +1,25 @@
+/* فونت دیجیتالی گوگل فونت*/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body{
+ margin:0;
+ height:100vh;
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ background: linear-gradient(135deg, #000000, #3c4f7d);
+ font-family: Verdana, Sans-Serif;
+}
+.clock{
+ color:#e2e8f0;
+ font-size: 5rem;
+ min-width: 650px;
+ letter-spacing: 4px;
+ padding: 20px 40px;
+ border-radius: 20px;
+ background-color: rgba(255,255,255,0.06);
+ box-shadow: 0 0 25px rgba(0,0,0,0.4);
+ text-align: center;
+ font-family: 'Orbitron', sans-serif;
+ text-shadow: 0 0 10px #e2e8f0, 0 0 20px #6366f1;
+}
