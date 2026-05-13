@@ -1,3 +1,4 @@
+![Digital Clock Banner](Digital-Clock-13-5-26.png)
 # Digital Clock
 
 A sleek, modern digital clock built with HTML, CSS, and Vanilla JavaScript.
