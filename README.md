@@ -15,4 +15,4 @@ A sleek, modern digital clock built with HTML, CSS, and Vanilla JavaScript.
 - JavaScript (DOM Manipulation, setInterval)
 
 ## How to Run
-Simply open `index.html` in any modern web browser.
+Simply open `index.html` in any modern web browser. 
