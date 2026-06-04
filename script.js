@@ -19,4 +19,4 @@ function updateClock(){
 }
 //Set interval for 1-second ticks
 updateClock();
-setInterval(updateClock,1000);
+setInterval (updateClock, 1000);
